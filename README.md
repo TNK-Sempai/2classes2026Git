@@ -1,7 +1,7 @@
 # 2classes2026
 ## Exercice pour les 2 classes
 
-Ce dépôt contient un exercice destiné aux élèves de deux classes différentes pour le début de la préformation web de 2026.
+Ce dépôt contient un exercice destiné aux élèves de deux classes différentes pour la préformation web de 2026.
 
 ## Objectif
 L'objectif de cet exercice est de vous familiariser avec l'utilisation de Git et GitHub, ainsi que de vous encourager à collaborer sur un projet commun.
@@ -11,7 +11,7 @@ Chaque élève doit créer une page HTML personnelle contenant des informations 
 **Ne travaillez pas directement sur la branche principale (`main`). Utilisez des branches pour vos contributions.**
 
 ## Instructions
-1. Créez un fork de ce dépôt sur votre compte GitHub.
+1. Créez un fork de ce dépôt sur votre compte GitHub : https://github.com/WebDevCF2m2026/2classes2026Git/
 2. Clonez le dépôt forké sur votre machine locale.
 3. Entrez dans le répertoire cloné:
     ```bash
@@ -21,7 +21,7 @@ Chaque élève doit créer une page HTML personnelle contenant des informations 
     ```bash
    git remote add upstream  CLEF_SSH_DU_DEPOT_ORIGINAL
     ```
-5. Créez une nouvelle branche pour votre travail (nom au choix), ne travaillez pas sur `main`:
+5. Créez une nouvelle branche pour votre travail (nom au choix), **ne travaillez pas sur `main`**:
     ```bash
    git checkout -b ma_branche
     ```
